@@ -1,6 +1,6 @@
-# Hi, I'm Gerald :blush:
 <img src="https://github.com/geraldmaboshe/geraldmaboshe/blob/master/Gerald%20Maboshe.png"/>
-
+Hi, I'm Gerald. I'm passionate about open source and developing scalable applications.
+Reach me on Twitter; @geraldmaboshe
 
 <!--
 **geraldmaboshe/geraldmaboshe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
