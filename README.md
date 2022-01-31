@@ -1,10 +1,10 @@
 # Gerald Maboshe
 
-- Coding mentor at [Smoothstack](https://smoothstack.com/)
+- Coding Mentor at [Smoothstack](https://smoothstack.com/)
 
-- Community lead at [Open Source Community Lusaka](https://twitter.com/oscalusaka)
+- Community Lead at [Open Source Community Lusaka](https://twitter.com/oscalusaka)
 
-- Technical writer at [blog.geraldmaboshe.dev](https://blog.geraldmaboshe.dev)
+- Technical Writer at [blog.geraldmaboshe.dev](https://blog.geraldmaboshe.dev)
 
 You can reach me via:
 - Email: maboshegerald1@gmail.com
