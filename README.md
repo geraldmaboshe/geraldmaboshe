@@ -1,5 +1,14 @@
-<img src="https://github.com/geraldmaboshe/geraldmaboshe/blob/master/Gerald%20Maboshe.png"/>
-Hi, I'm Gerald. I'm passionate about open source, technical writing and developing scalable applications.
+# Gerald Maboshe
+
+- Coding mentor at [Smoothstack](https://smoothstack.com/)
+
+- Community lead at [Open Source Community Lusaka](https://twitter.com/oscalusaka)
+
+- Technical writer at [blog.geraldmaboshe.dev](https://blog.geraldmaboshe.dev)
+
+You can reach via:
+- Email: maboshegerald1@gmail.com
+- Twitter: [@geraldmaboshe](https://twitter.com/geraldmaboshe)
 
 <!--
 **geraldmaboshe/geraldmaboshe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
