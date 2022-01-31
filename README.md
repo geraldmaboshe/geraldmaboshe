@@ -6,7 +6,7 @@
 
 - Technical writer at [blog.geraldmaboshe.dev](https://blog.geraldmaboshe.dev)
 
-You can reach via:
+You can reach me via:
 - Email: maboshegerald1@gmail.com
 - Twitter: [@geraldmaboshe](https://twitter.com/geraldmaboshe)
 
