@@ -1,15 +1,5 @@
 # Gerald Maboshe
-
-- Coding Mentor at [Smoothstack](https://smoothstack.com/)
-
-- Community Lead at [Open Source Community Lusaka](https://twitter.com/oscalusaka)
-
-- Technical Writer at [blog.geraldmaboshe.dev](https://blog.geraldmaboshe.dev)
-
-You can reach me via:
-- Email: maboshegerald1@gmail.com
-- Twitter: [@geraldmaboshe](https://twitter.com/geraldmaboshe)
-
+Hello :)
 <!--
 **geraldmaboshe/geraldmaboshe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
