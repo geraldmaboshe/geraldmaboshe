@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer with a love for
 - 🤔 I’m looking for Open Source projects leveraging Go.
 - 💬 Ask me about anything tech.
 - ♟️ I love to play chess in my free time
-- 📫 Email me at maboshegerald1@gmail.com.
+- 📫 Shoot me a message at maboshegerald1@gmail.com
 
 ## 🛠️ Technologies & Tools
 
