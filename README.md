@@ -25,7 +25,6 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer with a love for
 ## 🌱 About Me
 
 - 🔭 I’m currently working on building AI Agents.
-- 🌱 I’m currently learning Go.
 - 👯 I’m looking to collaborate on impactful projects in the AI space.
 - 🤔 I’m looking for Open Source projects leveraging Go.
 - 💬 Ask me about anything tech.
