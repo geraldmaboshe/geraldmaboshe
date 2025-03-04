@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer with a love for
 
 Here are some of the technologies and tools I work with:
 
-- **Projects**:
+## 🌟 Featured Personal Projects
 
 ### [Prose AI](https://www.useprose.com/)
 - Write with confidence
